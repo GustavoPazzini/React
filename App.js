@@ -11,7 +11,7 @@ export default function App() {
         placeholder="Senha"
         secureTextEntry={true}
       />
-      <Button title="Entrar" />
+      <Button title="Entrar"/>
     </View>
   );
 }
